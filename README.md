@@ -19,4 +19,5 @@ Recommended Resources:<br>
 <li>School of Computer Technology, George Brown College</li>
 <li>ID#: 101327325</li>
 <li>Email: hossein.hesami@georgebrown.ca</li>
+<li>LinkedIn: <a href="www.linkedin.com/in/hossein-hesami-5a565b78" target="_blank">www.linkedin.com/in/hossein-hesami-5a565b78</a>
 </ul>
