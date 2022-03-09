@@ -1,8 +1,8 @@
 # Full-Stack-I
 # Course code
-<p>This a repo for Full Stack I<p>
+<p>This a repo for Full Stack I</p>
 # Semester
-<p>Winter 2022<p>
+<p>Winter 2022</p>
 # Stack
 # Team Members
 <h2>Hossein Hesami</h2> <br>
