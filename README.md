@@ -1,8 +1,9 @@
 # Full-Stack-I
-# Course code
-Full Stack Development I - BCVD1006
-# Semester
+
+# Course
+Full Stack Development I - BCVD1006<br>
 Winter 2022
+
 # Stack
 MERN STACK (<b>M</b>ongoDb, <b>E</b>xpress, <b>R</b>eact, <b>N</b>ode.js)<br><br>
 Recommended Resources:<br>
@@ -10,7 +11,7 @@ Recommended Resources:<br>
 <a href="https://expressjs.com/" target="_blank">Express</a><br>
 <a href="https://reactjs.org/docs/getting-started.html" target="_blank">React</a><br>
 <a href="https://www.mongodb.com/" target="_blank">MongoDb</a><br>
-<a href="https://mongoosejs.com/" target="_blank">mongoosejs</a><br>
+<a href="https://mongoosejs.com/" target="_blank">mongoosejs</a>
 
 # Team Members
 <b>Hossein Hesami</b>
