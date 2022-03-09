@@ -4,6 +4,8 @@
 # Semester
 <p>Winter 2022</p>
 # Stack
+MERN STACK<br>
+MongoDb, Express, React, Node.js
 # Team Members
 <h2>Hossein Hesami</h2> <br>
 Student, Blockchain Development Program <br>
