@@ -18,6 +18,6 @@ Recommended Resources:<br>
 <li>Student, Blockchain Development Program</li>
 <li>School of Computer Technology, George Brown College</li>
 <li>ID#: 101327325</li>
-<li>Email: <a mailto="hossein.hesami@georgebrown.ca">hossein.hesami@georgebrown.ca</a></li>
+<li>Email: <a href="mailto:hossein.hesami@georgebrown.ca">hossein.hesami@georgebrown.ca</a></li>
 <li>LinkedIn: <a href="https://www.linkedin.com/in/hossein-hesami-5a565b78" target="_blank">www.linkedin.com/in/hossein-hesami-5a565b78</a>
 </ul>
