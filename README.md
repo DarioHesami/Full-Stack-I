@@ -1,8 +1,8 @@
 # Full-Stack-I
 # Course code
-<p>This a repo for Full Stack I</p>
+This a repo for Full Stack I
 # Semester
-<p>Winter 2022</p>
+Winter 2022
 # Stack
 MERN STACK<br>
 MongoDb, Express, React, Node.js
