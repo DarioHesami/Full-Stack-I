@@ -4,7 +4,7 @@ Full Stack Development I - BCVD1006
 # Semester
 Winter 2022
 # Stack
-MERN STACK (<b>M</b>ongoDb, <b>E</b>xpress, <b>R</b>eact, <b>N</b>ode.js)<br>
+MERN STACK (<b>M</b>ongoDb, <b>E</b>xpress, <b>R</b>eact, <b>N</b>ode.js)<br><br>
 Recommended Resources:<br>
 <a href="https://nodejs.org" target="_blank">Node.js</a><br>
 <a href="https://expressjs.com/" target="_blank">Express</a><br>
